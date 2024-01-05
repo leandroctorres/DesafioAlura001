@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Desafio001\Desafio001\bin\Debug\net7.0\Desafio001.exe
+C:\Users\DELL\source\repos\Desafio001\Desafio001\bin\Debug\net7.0\Desafio001.deps.json
+C:\Users\DELL\source\repos\Desafio001\Desafio001\bin\Debug\net7.0\Desafio001.runtimeconfig.json
+C:\Users\DELL\source\repos\Desafio001\Desafio001\bin\Debug\net7.0\Desafio001.dll
+C:\Users\DELL\source\repos\Desafio001\Desafio001\bin\Debug\net7.0\Desafio001.pdb
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\Desafio001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\Desafio001.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\Desafio001.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\Desafio001.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\Desafio001.dll
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\refint\Desafio001.dll
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\Desafio001.pdb
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\Desafio001.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Desafio001\Desafio001\obj\Debug\net7.0\ref\Desafio001.dll
